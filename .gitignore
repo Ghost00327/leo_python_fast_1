@@ -1,0 +1,53 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE configurations
+.vscode/
+.idea/
+
+# Python egg files
+*.egg
+*.egg-info/
+
+# Distribution / packaging
+dist/
+build/
+*.tar.gz
+
+# .env file for environment variables (don't commit secrets)
+.env
+
+# Log files
+*.log
+
+# Database files (e.g., SQLite)
+*.sqlite
+*.db
+
+# Pytest cache
+.cache/
+
+# Coverage reports
+.coverage
+*.cover
+*.hypothesis/
+
+# mypy type checking
+.mypy_cache/
+
+# Pylint configuration
+.pylint.d/
+
+# Cython compiled files
+*.c
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
